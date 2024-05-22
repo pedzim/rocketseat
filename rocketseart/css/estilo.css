@@ -1,0 +1,37 @@
+.tudo{
+   background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-ficcao-cientifica-futurista-moderno_35913-2152.jpg);
+   width: 900px;
+   height: 770px; 
+   padding-left: 320px;
+   padding-top: 88px;
+}
+
+.foto{
+    background-position: center;
+}
+
+.form{
+    background-image: url(https://i.pinimg.com/736x/37/d8/9f/37d89fa0319df50c1a473e07e24db45e.jpg);
+     width: 540px;
+     height: 630px;
+     text-align: center;
+     border-radius: 15px;
+     }
+.botao{
+    background: rgb(98, 139, 221);
+    border-radius: 1009px;
+    width: 199px;
+    height: 30px;
+}
+.botao:hover{
+    background: rgb(97, 97, 121);
+}
+.user{
+    border-radius: 13px;
+    background: rgb(175, 100, 125);
+    width: 199px;
+    height: 30px;
+}
+.user:hover{
+    background: white;
+}
